@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityy\\snowgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|D:\\unityy\\snowgame\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|d:\\unityy\\snowgame\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unityy\\snowgame\\Assets\\scripts\\startMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\startMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|D:\\unityy\\snowgame\\assets\\scripts\\crash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|D:\\unityy\\snowgame\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|D:\\unityy\\snowgame\\assets\\scripts\\snow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADF3CA-C501-1723-0904-952C4A7D5CCE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scoremanager.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\scoremanager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\scoremanager.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\scoremanager.cs",
+              "RelativeToolTip": "Assets\\scripts\\scoremanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:22:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "startMenu.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\startMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\startMenu.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\startMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\startMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:15:44.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "snow.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\snow.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\snow.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\snow.cs",
+              "RelativeToolTip": "Assets\\scripts\\snow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:25:58.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crash.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\crash.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\crash.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\crash.cs",
+              "RelativeToolTip": "Assets\\scripts\\crash.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:55:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "finishline.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\finishline.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\finishline.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\finishline.cs",
+              "RelativeToolTip": "Assets\\scripts\\finishline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:42:47.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playercontrol.cs",
+              "DocumentMoniker": "D:\\unityy\\snowgame\\Assets\\scripts\\playercontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\playercontrol.cs",
+              "ToolTip": "D:\\unityy\\snowgame\\Assets\\scripts\\playercontrol.cs",
+              "RelativeToolTip": "Assets\\scripts\\playercontrol.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:01:40.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
